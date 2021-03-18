@@ -1,0 +1,31 @@
+{
+  "name": "bubble",
+  "version": "1.0.0",
+  "description": "An almost exact copy of a bot that was made for me when i first started developing",
+  "main": "index.js",
+  "scripts": {
+    "test": "b.help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tazhys/Bubble.git"
+  },
+  "keywords": [
+    "discord",
+    "discord",
+    "bot",
+    "bots",
+    "bot",
+    "bubble",
+    "bubblebot",
+    "tazhys",
+    "tazhs",
+    "taz"
+  ],
+  "author": "Tazhys",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tazhys/Bubble/issues"
+  },
+  "homepage": "https://github.com/Tazhys/Bubble#readme"
+}
